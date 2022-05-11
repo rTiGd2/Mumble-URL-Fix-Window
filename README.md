@@ -10,4 +10,4 @@ If you are a Goon then reach out to Sillat/Midnight Space Money if you need some
 
 https://raw.githubusercontent.com/rTiGd2/Mumble-URL-Fix-Window/main/mumble.reg
 
-Right click the link above and save it somewhere.
+Right click the link above and save it somewhere. If your browser wants to save as .txt (or does save as .txt) then remove the .txt (the file needs to end in .reg to enable double clicking to install it.)
