@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\mumble]
+@="URL:Mumble"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\mumble\DefaultIcon]
+@="C:\\Program Files\\Mumble\\client\\mumble.exe"
+
+[HKEY_CLASSES_ROOT\mumble\shell]
+
+[HKEY_CLASSES_ROOT\mumble\shell\open]
+
+[HKEY_CLASSES_ROOT\mumble\shell\open\command]
+@="C:\\Program Files\\Mumble\\client\\mumble.exe \"%1\""
