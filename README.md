@@ -11,3 +11,5 @@ If you are a Goon then reach out to Sillat/Midnight Space Money if you need some
 https://raw.githubusercontent.com/rTiGd2/Mumble-URL-Fix-Window/main/mumble.reg
 
 Right click the link above and save it somewhere. If your browser wants to save as .txt (or does save as .txt) then remove the .txt (the file needs to end in .reg to enable double clicking to install it.)
+
+If you are worried about the contents on the .reg file, you can view it in a text editor such as notepad++ and verify the contents as being the same as the issue in the mumble incident reporting this problem found here: https://github.com/mumble-voip/mumble/issues/5473#issuecomment-1018438938
