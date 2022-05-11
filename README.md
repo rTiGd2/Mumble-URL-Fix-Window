@@ -7,3 +7,7 @@ This will ask you if you wish to make the changes, feel free to not accept if yo
 After you have made the registry change you can now click on mumble:// links - The first time you do this you will most likely have your web browser ask if you want to run mumble, do what you want but if you don't say yes, it won't work.
 
 If you are a Goon then reach out to Sillat/Midnight Space Money if you need some extra clarification.
+
+https://raw.githubusercontent.com/rTiGd2/Mumble-URL-Fix-Window/main/mumble.reg
+
+Right click the link above and save it somewhere.
