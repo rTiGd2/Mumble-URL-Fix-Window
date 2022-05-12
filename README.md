@@ -15,4 +15,4 @@ After you have made the registry change you can now click on mumble:// links - T
 > If you are a Goon then reach out to Sillat/Midnight Space Monkey if you need some extra clarification.
 
 If you are worried about the contents on the .reg file, you can view it in a text editor such as notepad++ and verify the contents as being the same as the issue in the mumble incident reporting this problem found here
-[Mumble Issue 5473}(https://github.com/mumble-voip/mumble/issues/5473#issuecomment-1018438938)
+[Mumble Issue 5473](https://github.com/mumble-voip/mumble/issues/5473#issuecomment-1018438938)
