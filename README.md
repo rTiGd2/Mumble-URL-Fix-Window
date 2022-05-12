@@ -10,7 +10,7 @@ In File Explorer find where you saved mumble.reg and double click on it to insta
 After you have made the registry change you can now click on mumble:// links - The first time you do this you will most likely have your web browser ask if you want to run mumble, do what you want but if you don't say yes, it won't work.
 
 > For example, in Firefox, tick the box shown as 1 and then select mumble shown as 2
-> ![](assets/Mumble-step-1.png)
+> ![](/assets/Mumble-step-1.png)
 
 > If you are a Goon then reach out to Sillat/Midnight Space Monkey if you need some extra clarification.
 
